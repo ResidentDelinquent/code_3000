@@ -1,0 +1,3 @@
+This repository houses my work for CSE 3000-001; the primary users of this repository are intended to be myself, for modification and assignment completion, and the professor, for grading. Secondarily, it may be used for reference by other students. Other users are not specified or intended but not unwelcome in a viewer capacity.
+
+As the owner of the repository, only I can approve pull requests. This is consequential only for the sake of alignment of the data and code here with class assignments. Beyond that, however, the information here is of low-stakes sensitivity, so further security precautions are not necessitated.
