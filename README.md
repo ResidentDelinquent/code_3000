@@ -1,3 +1,16 @@
+# AI Ethics Statement
+
+Artificial intelligence, by design, must inherently respect the rights, dignity, and well-being of individuals. The use and implementation of AI must be responsible and throughtful. Fairness must be prioritized by recognizing AI systems reflect the biases of their training data and design. AI designed with well-augmented, well-curated training data is crucial.
+
+Likweise, I will prioritize transparnecy in AI design and use. This has two sides; the first is by honesty in using AI to generate or influence work. The second is an effort to understand AI-generated conclusions and to implement some form of humkan interpretability when possible.
+
+Privacy is an essential aspect of dignity and respect for persons. I must be careful about the personal and sensitive information I share with AI systems. Likewise, in implementation of AI, I will focus on using deidentified data or relying on federated learning where this is not possible.
+
+I further recognize that AI outputs cannot automatically be treated as accurate or authoritative. I will take responsibility for verifying important information, considering alternative perspectives, and making my own informed judgments rather than delegating decisions entirely to an algorithm. In situations where AI may significantly affect an individual's opportunities or well-being, human oversight remains essential.
+
+Finally, I believe ethical AI use demands action beyond reliance on sometimes vague, general, and nonspecific principles such as fairness, transparency, and accountability. These values must translate into consistent, reliable action and thoughtful, specific design choices. Ultimately, I must acknowledge AI as a tool to support and enhance human judgment, society, and the human condition without compromising individual rights or ethical responsibilities.
+
+
 # code_3000
 Collection of Assignments for CSE 3000: Contemporary Issues in Computer Science and Engineering
 
